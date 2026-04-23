@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Vue.js Mid-Level Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/9b75236a-64ed-4f8c-a10d-5bc8f5b3f615)
 
 <!--
 **arrudaje/arrudaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
